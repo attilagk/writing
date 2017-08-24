@@ -3,13 +3,19 @@ title:       Introduction
 slug:        introduction
 template:    post.hbs
 date:        2017-08-23
-author:      anonymous
+author:      pseudoscientist
 ---
 
-## Scope
+## Aim
+* publish essays "On the boundaries of scientific thought and academia"?
+* include blog: posts will serve as departure towards essays
+* demonstrate my writing skills
+* develop ideas for future publications
+* foundation of a journal
 
-* what is meant by "On the boundaries of scientific thought and academia"
-* contributor: Anonymous, motivation
+## Contributor
+* myself, as *Pseudoscientist*
+* other *(pseudo)scientist* contributors will be welcome (but probably noone will join)
 
 ## Essays
 
