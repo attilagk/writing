@@ -1,6 +1,6 @@
 {
-  "title": "Project Title",
-  "description": "Project description here Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, repudiandae!",
+  "title": "Writing",
+  "description": "On the boundaries of scientific thought and academia",
   "url": "",
   "rss": "/rss.xml",
   "maxItems": 6,
@@ -13,17 +13,17 @@
   ],
   "styleSheet": "style.css",
   "authors": {
-    "nicholas": {
-      "name": "Nicholas Frota",
-      "bio": "the anagram of my name is anarchist fool",
-      "email": "info@nicholasfrota.com",
-      "twitter": "nonlinear",
-      "github": "nonlinear",
-      "instagram": "nonlinear",
-      "pinterest": "nonlinearguy"
+    "anonymous": {
+      "name": "Anonymous",
+      "bio": "immaterial",
+      "email": "anonymous@earth.com",
+      "twitter": "",
+      "github": "",
+      "instagram": "",
+      "pinterest": ""
     }
   },
   "imageCompression": true,
   "ghPagesBranch": "gh-pages",
-  "ghPagesRemoteUrl": "https://github.com/lazy-8/base.git"
+  "ghPagesRemoteUrl": "https://github.com/attilagk/writing.git"
 }
